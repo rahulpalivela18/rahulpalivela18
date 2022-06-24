@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulpalivela18
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in coding and competitive programming.
 - 🌱 I’m currently learning Machine learning, data structures, analysis of algorithms.
 - Currently working as a summer intern at IIT Palakkad.
