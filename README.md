@@ -15,14 +15,12 @@ I'm currently working on PostgresSql<br>I'm looking to collaborate on SQl and pr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulpalivela18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rahulpalivela18)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulpalivela18&icon=0&color=0)](https://visitcount.itsvg.in)
